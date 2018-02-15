@@ -1,1 +1,1 @@
-#Collection of various python crawlers/scrapers to query websites for different things.
+Collection of various python crawlers/scrapers to query websites for different things.
